@@ -4,7 +4,7 @@ class Solution:
             return False
         sum1=sum(nums)//2
         N=len(nums)
-        dp=[[False for i in range(sum1+1)] for _ in range(N+1)]
+        dp=[[False]*(sum1+1) for _ in range(N+1)]
         
         for i in range(N+1):
             dp[i][0]=True
