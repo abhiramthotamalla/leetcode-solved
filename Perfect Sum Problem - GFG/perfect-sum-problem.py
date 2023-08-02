@@ -1,21 +1,19 @@
-mod = 10**9+7
-from collections import deque
+#User function Template for python3
 class Solution:
-    def perfectSum(self, arr, n, sumi):
-        # code here
-        dp = [[0 for i in range(sum + 1)] for j in range(n + 1)]
-        for i in range(n + 1):
-            dp[i][0] = 1
-        
-        for i in range(1, n + 1):
-            for j in range(sum + 1):
-                if arr[i - 1] <= j:
-                    dp[i][j] = dp[i - 1][j] + dp[i - 1][j - arr[i - 1]]
+    def perfectSum(self, arr, n, sum):
+        mod=(10**9)+7
+        dp=[[0 for i in range(sum+1)] for j in range(n+1)]
+        for i in range(n+1):
+            dp[i][0]=1
+        for i in range(1,n+1):
+            for j in range(sum+1):
+                if(arr[i-1]<=j):
+                    dp[i][j]=dp[i-1][j-arr[i-1]]+dp[i-1][j]
                 else:
-                    dp[i][j] = dp[i - 1][j]
-                dp[i][j]%=mod
-        
-        return dp[-1][-1] % mod
+                    dp[i][j]=dp[i-1][j]
+                dp[i][j]=dp[i][j]%mod
+        return dp[n][sum]%mod
+
 
 
 #{ 
