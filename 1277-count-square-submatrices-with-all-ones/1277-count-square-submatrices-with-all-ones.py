@@ -12,7 +12,6 @@ class Solution:
         for i in range(row):
             for j in range(col):
                 res+=matrix[i][j]
-                print(matrix[i][j],end=" ")
-            print()
+
         
         return res
