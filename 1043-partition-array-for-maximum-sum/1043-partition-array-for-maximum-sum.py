@@ -1,22 +1,16 @@
 class Solution:
     def maxSumAfterPartitioning(self, arr: List[int], k: int) -> int:
         n=len(arr)
-        dp=[-1 for i in range(n)]
-        def helper(idx,nums,k):
-            n=len(nums)
 
-            if(idx==n):
-                return 0
-            if dp[idx]!=-1:
-                return dp[idx]
-            maxi=-float("inf")
-            res=-float("inf")
+        dp=[-1 for i in range(n+1)]
+        for i in range(n-1,-1,-1):
             c=0
-            for i in range(idx,min(n,idx+k)):
+            maxi,res=-float("inf"),-float("inf")
+            for j in range(i,min(i+k,n)):
                 c+=1
-                maxi=max(maxi,nums[i])
-                dum=(c*maxi)+helper(idx+c,nums,k)
+                maxi=max(maxi,arr[j])
+                
+                dum=(c*maxi)+dp[j+1]
                 res=max(res,dum)
-            dp[idx]=res
-            return dp[idx]
-        return helper(0,arr,k)
+            dp[i]=res
+        return dp[0]+1
