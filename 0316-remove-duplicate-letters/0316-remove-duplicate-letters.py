@@ -11,16 +11,12 @@ class Solution:
             if seen[ord(s[i])-ord("a")]:
                 occure[ord(s[i])-ord("a")]-=1
                 continue
-
             while(stack and ord(stack[-1])>ord(s[i])) and occure[ord(stack[-1])-ord("a")]>0:
                 seen[ord(stack[-1])-ord("a")]=False
                 stack.pop()
             stack.append(s[i])
             seen[ord(s[i])-ord("a")]=True
             occure[ord(s[i])-ord("a")]-=1
-        ans=[]
-        while(stack):
-            ans.append(stack.pop())
-        ans.reverse()
-        ans="".join(ans)
-        return ans
+
+        stack="".join(stack)
+        return stack
