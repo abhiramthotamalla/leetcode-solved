@@ -1,8 +1,7 @@
 class Solution:
     def winnerOfGame(self, colors: str) -> bool:
-        a=[]
-        b=[]
         i=0
+        ta,tb=0,0
         s=colors
         while i<len(s):
             As=0
@@ -10,7 +9,7 @@ class Solution:
                 As+=1
                 i+=1
             if As>2:
-                a.append(As-2)
+                ta+=(As-2)
                 As=0
             if i<len(s) and s[i]=="B":
                 i+=1
@@ -23,10 +22,10 @@ class Solution:
                 Bs+=1
                 i+=1
             if Bs>2:
-                b.append(Bs-2)
+                tb+=(Bs-2)
                 As=0
             if i<len(s) and s[i]=="A":
                 i+=1
 
-        return sum(a)>sum(b)
+        return ta>tb
         
