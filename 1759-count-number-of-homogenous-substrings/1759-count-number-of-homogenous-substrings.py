@@ -5,4 +5,5 @@ class Solution:
         for i,j in groupby(s):
             n=len(list(j))
             res+=(n*(n+1))//2
+            res%=mod
         return res%mod
