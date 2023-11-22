@@ -1,21 +1,23 @@
 class Solution:
-    def isBipartite(self, V, adj):
-        def dfs(node, col):
-            vis[node] = col
-            for it in adj[node]:
-                if vis[it] == -1:
-                    if dfs(it, 1 - col) == False:
-                        return False
-                elif vis[it] == col:
+	def isBipartite(self, V, adj):
+		#code here
+		def dfs(node,col):
+		    vis[node]=col
+		    for it in adj[node]:
+		        if vis[it]==-1:
+                    if dfs(it,1-col)==False:
+        		            return False
+                elif vis[it]==col:
                     return False
             return True
-
-        vis = [-1 for i in range(V)]
+            
+        vis=[-1 for i in range(V)]
         for i in range(V):
-            if vis[i] == -1:
-                if dfs(i, 0) == False:
+            if vis[i]==-1:
+                if dfs(i,0)==False:
                     return False
         return True
+                
 
 
 #{ 
