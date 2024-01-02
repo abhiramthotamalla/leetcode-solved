@@ -15,19 +15,10 @@ class Solution:
                     c=0
                     break
             i=j
-            
-        print(maxi)
         
         res=[[] for i in range(maxi+1)]
         
-        # for v in d:
-        #     c=0
-        #     k=d[v]
-        #     while(k and c<max(k1)):
-        #         if v not in res[c]:
-        #             res[c].append(v)
-        #             k-=1
-        #         c+=1
+
         
         i=0
         while(i<len(nums)):
