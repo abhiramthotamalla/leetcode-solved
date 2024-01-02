@@ -5,7 +5,26 @@ class Solution:
             d[i]=1+d.get(i,0)
         k1=d.values()
         
-        res=[[] for i in range(max(k1))]
+        nums.sort()
+        maxi=0
+        i=0
+        while(i<len(nums)-1):
+            c=0
+            j=i+1
+            while(j<len(nums)):
+                if nums[i]==nums[j]:
+                    c+=1
+                    j+=1
+                    maxi=max(c,maxi)
+                else:
+                    c=0
+                    break
+            i=j
+            
+        print(maxi)
+        print(max(k1))
+        
+        res=[[] for i in range(maxi+1)]
         
         for v in d:
             c=0
@@ -15,7 +34,4 @@ class Solution:
                     res[c].append(v)
                     k-=1
                 c+=1
-            
-        
-        
         return res
