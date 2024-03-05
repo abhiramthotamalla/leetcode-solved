@@ -10,6 +10,5 @@ class Solution:
                     j-=1
             else:
                 break
-        # print(s[i:j+1])
-        # print(i,j)
+
         return len(s[i:j+1])
