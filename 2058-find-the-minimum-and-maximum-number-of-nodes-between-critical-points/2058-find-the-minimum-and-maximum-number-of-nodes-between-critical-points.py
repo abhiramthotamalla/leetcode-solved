@@ -19,7 +19,7 @@ class Solution:
             prev=head.val
             head=head.next
         dum.sort()
-        print(*dum)
+        # print(*dum)
         for i in range(1,len(dum)):
             mini=min(mini,dum[i]-dum[i-1])
         if len(dum)>1:
