@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0204-count-primes) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
@@ -56,4 +57,20 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0204-count-primes) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
