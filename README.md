@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## Enumeration
 |  |
 | ------- |
