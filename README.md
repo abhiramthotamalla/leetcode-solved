@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0204-count-primes](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -69,18 +70,22 @@ Collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Two Pointers
 |  |
@@ -90,4 +95,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
