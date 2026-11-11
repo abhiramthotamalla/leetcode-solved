@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
@@ -99,4 +100,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3693-climbing-stairs-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3693-climbing-stairs-ii) |
 <!---LeetCode Topics End-->
