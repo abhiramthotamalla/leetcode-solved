@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1267-count-servers-that-communicate](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3727-maximum-alternating-sum-of-squares) |
