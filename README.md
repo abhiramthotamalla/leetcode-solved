@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
