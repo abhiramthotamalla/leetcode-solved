@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [0204-count-primes](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Counting
 |  |
@@ -108,4 +110,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3693-climbing-stairs-ii](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/3693-climbing-stairs-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/abhiramthotamalla/leetcode-solved/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
